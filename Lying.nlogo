@@ -104,10 +104,10 @@ to make-decisions
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
-595
-0
-1032
-438
+573
+16
+1114
+558
 -1
 -1
 13.0
@@ -120,10 +120,10 @@ GRAPHICS-WINDOW
 1
 1
 1
--16
-16
--16
-16
+-20
+20
+-20
+20
 1
 1
 1
@@ -139,7 +139,7 @@ cultural-context
 cultural-context
 0
 1
-0.5
+1.0
 0.1
 1
 NIL
@@ -154,7 +154,7 @@ severity-of-lie
 severity-of-lie
 0
 1
-0.2
+0.4
 0.1
 1
 NIL
@@ -232,8 +232,8 @@ SLIDER
 group-size
 group-size
 0
-50
-50.0
+200
+200.0
 1
 1
 NIL
@@ -259,10 +259,10 @@ PENS
 "Truthful" 1.0 0 -13345367 true "" "plot count turtles with [not is-lying?]"
 
 MONITOR
-204
-310
-551
-355
+205
+311
+550
+356
 Time (Ticks)
 time
 17
